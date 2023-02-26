@@ -43,14 +43,14 @@ const Parte02 = () => {
   ]);
 
   return (
-    <div className="container mx-auto">
-      <div className="flex flex-wrap justify-center my-16">
-        <h1 className="text-center text-3xl md:text-5xl  font-bold w-[1500px] px-1 md:px-0">
-          <span className="bg-[#FF7300] px-2 leading-normal ">
+    <div className="container mx-auto bg-white">
+      <div className="flex flex-wrap justify-center my-16 text-black">
+        <h1 className="text-center text-3xl md:text-5xl  font-bold w-[1500px] px-1 md:px-0 mt-16">
+          <span className="bg-[#FF7300] px-2 leading-normal text-white ">
             PROGRAMA DE REEDUCAÇÃO ALIMENTAR
           </span>{" "}
           QUE VAI TE AJUDAR A CONQUISTAR{" "}
-          <span className="bg-[#FF7300] px-2 leading-normal ">
+          <span className="bg-[#FF7300] px-2 leading-normal text-white">
             RESULTADOS EXTRAORDINÁRIOS
           </span>
           <br />
@@ -77,7 +77,7 @@ const Parte02 = () => {
         <div id="botao01" className="px-2 md:px-0">
           <a
             href="#"
-            className="flex justify-center items-center text-center bg-[#05A401] rounded-full p-8 my-10 text-xl md:text-2xl font-bold hover:bg-[#026B00]"
+            className="flex justify-center items-center text-center bg-[#05A401] rounded-full p-8 my-10 text-xl md:text-2xl font-bold hover:bg-[#026B00] text-white"
           >
             QUERO TER MAIS DISPOSIÇÃO E EMAGRECER COM SAÚDE !
           </a>
