@@ -36,7 +36,7 @@ const Inicio = (props: Props) => {
 
         <div id="botao01" className="px-2 md:px-0">
           <a
-            href="#"
+            href="https://pay.hotmart.com/N80060945F"
             className="flex justify-center items-center text-center bg-[#05A401] rounded-full p-8 my-10 text-xl md:text-2xl font-bold hover:bg-[#026B00]"
           >
             QUERO COMEÇAR A EMAGRECER AGORA MESMO !

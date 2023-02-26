@@ -46,7 +46,7 @@ const Parte03 = (props: Props) => {
             className="flex flex-wrap justify-center w-full px-2 md:px-0 mt-10"
           >
             <a
-              href="#"
+              href="https://pay.hotmart.com/N80060945F"
               className="flex justify-center items-center text-center bg-[#05A401] md:w-[600px] rounded-full p-8 my-10 text-xl md:text-2xl font-bold hover:bg-[#026B00] text-white"
             >
               SIM, QUERO EMAGRECER AGORA
