@@ -1,5 +1,6 @@
 import Head from "next/head";
 import Inicio from "./components/Inicio";
+import Parte02 from "./components/Parte02";
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
 
       <main>
         <Inicio />
+        <Parte02 />
       </main>
     </div>
   );
