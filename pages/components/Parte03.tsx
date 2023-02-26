@@ -20,9 +20,9 @@ const Parte03 = (props: Props) => {
           <p className="text-black text-3xl md:w-[800px] mt-5 md:text-left text-center">
             Simples! Compre agora e tenha direito de arrependimento em até 7
             dias. Se você não gostar ou não se adaptar ao nosso método, basta
-            enviar um e-mail para contato@semprefit.app dentro do período de
-            garantia e cancelamos sua compra, reembolsando 100% do valor pago
-            sem burocracias. Esse é o nosso compromisso com você!
+            enviar um e-mail para marcosgarcia.oliveira02@gmail.com dentro do
+            período de garantia e cancelamos sua compra, reembolsando 100% do
+            valor pago sem burocracias. Esse é o nosso compromisso com você!
           </p>
         </div>
       </div>
