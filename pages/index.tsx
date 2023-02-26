@@ -17,6 +17,30 @@ export default function Home() {
         <Parte02 />
         <Parte03 />
       </main>
+
+      <footer className="container mx-auto p-10 bg-[#363636]">
+        <div className="flex justify-center">
+          <p className="text-center w-4/5">
+            AVISO LEGAL: Todas as sugestões e conceitos apresentados aqui têm
+            como objetivo apenas informar e educar. Este site foi
+            disponibilizado com esse objetivo e não tem intenção nenhuma de
+            servir como orientação médica, prescrição ou substituir diagnósticos
+            de profissionais. Nenhuma informação desta página ou deste produto
+            substitui uma consulta com seu médico, nutricionista ou um personal.
+            É importante o acompanhamento profissional para qualquer mudança na
+            alimentação ou estilo de vida alimentar. É só ele quem poderá
+            avaliar de perto a sua situação atual e decidir se você está apto(a)
+            ou não à essas alterações. Tenha em mente que os resultados aqui
+            apresentados não garantem que você terá os mesmo resultados, isso
+            depende e varia do organismo de cada pessoa e da determinação em
+            seguir as sugestões propostas e ter resultados.
+          </p>
+        </div>
+        <h1 className="text-center mt-10">
+          Copyright Guia 1.0 Emagrecer saudável 2023 - Todos os direitos
+          reservados
+        </h1>
+      </footer>
     </div>
   );
 }
