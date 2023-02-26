@@ -43,7 +43,7 @@ const Parte02 = () => {
   ]);
 
   return (
-    <div className="container mx-auto bg-white">
+    <div className="container mx-auto">
       <div className="flex flex-wrap justify-center my-16 text-black">
         <h1 className="text-center text-3xl md:text-5xl  font-bold w-[1500px] px-1 md:px-0 mt-16">
           <span className="bg-[#FF7300] px-2 leading-normal text-white ">

@@ -7,7 +7,7 @@ import tablet_e_cell from "../assets/tablet-e-cell.png";
 type Props = {};
 const Inicio = (props: Props) => {
   return (
-    <div className="container mx-auto">
+    <div className="container mx-auto bg-black">
       <div
         id="redline"
         className="flex items-center justify-center h-16 w-full bg-[#FF7300]"

@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Inicio from "./components/Inicio";
 import Parte02 from "./components/Parte02";
+import Parte03 from "./components/Parte03";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <main>
         <Inicio />
         <Parte02 />
+        <Parte03 />
       </main>
     </div>
   );
